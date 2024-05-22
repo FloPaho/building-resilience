@@ -6,12 +6,19 @@ website:
   title: "Digital training for building resilience:"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - projects.qmd
+      - text: Home
+        href: index.qmd
+      - text: Study Examples
+        menu:
+          - text: Study 1
+            href: study1.qmd
+          - text: Study 2
+            href: study2.qmd
+          - text: Study 3
+            href: study3.qmd
     tools:
       - icon: twitter
-        href: https://twitter.com/
+        href: https://digilab.uni-graz.at/en/
       - icon: github
         href: https://github.com/FloPaho/building-resilience
   page-footer:
@@ -19,8 +26,9 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: minty
     toc: true
 
 editor: source
+
 
