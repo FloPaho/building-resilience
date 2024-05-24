@@ -32,14 +32,14 @@
     "href": "index.html",
     "title": "Digital training for building resilience:",
     "section": "",
-    "text": "hier ist ein Link für die Nutzung von Quarto: Quarto Tutorial vom R Kurs von Brunner\n\n\nHere is some text with a tooltip: hover over me."
+    "text": "hier ist ein Link für die Nutzung von Quarto: Quarto Tutorial vom R Kurs von Brunner\n\n\nHere is some text with a tooltip: Hover over me\nCoping with stress: In times of crises such as the COVID-19 pandemic and geopolitical conflicts, mental health issues have climbed to an all time high. Stress is a primary driver of those, which is why building a psychological “defense shield” against stress and its consequences is crucial. Resilience is the scientific term for this defense shield and describes the ability to successfully overcome adversity. Since former studies have shown that resilience can be trained in physical face-to-face settings, this meta-analysis investigates whether digitally delivered resilience training can also be efficacious."
   },
   {
     "objectID": "index.html#tooltip-hier-ist-ein-beispiel-wie-ihr-ein-tooltip-machen-könnt",
     "href": "index.html#tooltip-hier-ist-ein-beispiel-wie-ihr-ein-tooltip-machen-könnt",
     "title": "Digital training for building resilience:",
     "section": "",
-    "text": "Here is some text with a tooltip: hover over me."
+    "text": "Here is some text with a tooltip: Hover over me\nCoping with stress: In times of crises such as the COVID-19 pandemic and geopolitical conflicts, mental health issues have climbed to an all time high. Stress is a primary driver of those, which is why building a psychological “defense shield” against stress and its consequences is crucial. Resilience is the scientific term for this defense shield and describes the ability to successfully overcome adversity. Since former studies have shown that resilience can be trained in physical face-to-face settings, this meta-analysis investigates whether digitally delivered resilience training can also be efficacious."
   },
   {
     "objectID": "study2.html",
@@ -54,5 +54,33 @@
     "title": "Digital training for building resilience:",
     "section": "",
     "text": "Here is some text with a tooltip: hover over me."
+  },
+  {
+    "objectID": "index.html#focus-of-the-study",
+    "href": "index.html#focus-of-the-study",
+    "title": "Digital training for building resilience:",
+    "section": "Focus of the study",
+    "text": "Focus of the study\nInvestigating the efficacy of digital resilience training."
+  },
+  {
+    "objectID": "index.html#target-group",
+    "href": "index.html#target-group",
+    "title": "Digital training for building resilience:",
+    "section": "Target group",
+    "text": "Target group\nThe general public, healthcare professionals (both concerning their patients’ and their own resilience) and game developers."
+  },
+  {
+    "objectID": "index.html#effect-size",
+    "href": "index.html#effect-size",
+    "title": "Digital training for building resilience:",
+    "section": "Effect size",
+    "text": "Effect size\nModerate to strong effects in favor of digital resilience training."
+  },
+  {
+    "objectID": "index.html#further-notable-results",
+    "href": "index.html#further-notable-results",
+    "title": "Digital training for building resilience:",
+    "section": "Further notable results",
+    "text": "Further notable results\nInternet-based interventions with a flexible training schedule showed the most promising effects compared to other intervention types"
   }
 ]

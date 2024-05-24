@@ -1,0 +1,12 @@
+.highlight {
+    color: rgb(37, 37, 150);
+    font-weight: bold;
+}
+
+.highlight:hover {
+    cursor: help
+}
+
+.bold {
+    font-weight: bold;
+}
