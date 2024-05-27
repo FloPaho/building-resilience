@@ -8,147 +8,56 @@ format:
     css: styles.css
 ---
 
-# Nützliches:
-
-hier ist ein Link für die Nutzung von Quarto: [Quarto Tutorial vom R Kurs von Brunner](https://r-23w-12.netlify.app/)
-
-## Tooltip (Hier ist ein Beispiel wie ihr ein tooltip machen könnt)
-
-Here is some text with a tooltip: <span class="highlight">[Hover over me]{title="This is the tooltip text."}</span>
-
-<span class="bold">Coping with stress: In times of crises such as the COVID-19 pandemic and geopolitical conflicts, mental health issues have climbed to an all time high. Stress is a primary driver of those, which is why building a psychological "defense shield" against stress and its consequences is crucial. Resilience is the scientific term for this defense shield and describes the ability to successfully overcome adversity. Since former studies have shown that resilience can be trained in physical face-to-face settings, this meta-analysis investigates whether digitally delivered resilience training can also be efficacious.</span>
+[Coping with stress: In times of crises such as the COVID-19 pandemic and geopolitical conflicts, mental health issues have climbed to an all time high. Stress is a primary driver of those, which is why building a psychological "defense shield" against stress and its consequences is crucial. Resilience is the scientific term for this defense shield and describes the ability to successfully overcome adversity. Since former studies have shown that resilience can be trained in physical face-to-face settings, this meta-analysis investigates whether digitally delivered resilience training can also be efficacious.]{.bold}
 
 # Overview
 
-## Focus of the study
+### Focus of the study
 
 Investigating the efficacy of digital resilience training.
 
-## Target group
+### Target group
 
 The general public, healthcare professionals (both concerning their patients' and their own resilience) and game developers.
 
-## Effect size
+### Effect size
 
-<span class="highlight">[Moderate to strong effects]{title="Hedges' g = 0.54 - 1.09. Hedges' g is an effect size measure that denotes the magnitude of group differences. It is a more reliable measure when sample sizes of studies are small."}</span> in favor of digital resilience training.
+[Moderate to strong effects]{title="Hedges' g = 0.54 - 1.09. Hedges' g is an effect size measure that denotes the magnitude of group differences. It is a more reliable measure when sample sizes of studies are small." style="font-weight: bold; color: #78c2ad;"} in favor of digital resilience training.
 
-## Further notable results
+### Further notable results
 
 Internet-based interventions with a flexible training schedule showed the most promising effects compared to other intervention types
 
-
 # What is this study about?
 
-Stress is a primary driver of mental health issues such as depression or anxiety. Especially
-tough times like the COVID-19 pandemic tend to leave their marks on our collective mental
-well-being. Building resilience or, in other words, psychological resistance against stress is
-crucial for preventing the development of mental health problems. This not only affects the
-general public, but also healthcare professionals, with <span class="highlight">[26%]{title="31% during COVID times. Also my motivational level of getting up in the morning."}</span> reporting low resilience. People
-with a higher degree of resilience enjoy be tter well-being and health, tend to be more
-productive and report more academic success. Given the importance of resilience,
-understanding the different conceptualizations is essential. Resilience can be perceived from
-a trait, process or outcome perspective. The trait perspective describes it as a component of
-one’s personality, something stable over time, while the process perspective views it as
-something volatile and dynamic, and focusses on how resilient one feels at the moment. The
-outcome perspective merely is interested in whether one is able to bounce back from
-adversity or mental health issues and not so much in how one perceives it subjectively.
-Irrespective of conceptual variance, research found that people are able to train their
-resilience. The question that remains to be answered is “How do you train it?”.
+Stress is a primary driver of mental health issues such as depression or anxiety. Especially tough times like the COVID-19 pandemic tend to leave their marks on our collective mental well-being. Building resilience or, in other words, psychological resistance against stress is crucial for preventing the development of mental health problems. This not only affects the general public, but also healthcare professionals, with [26%]{title="31% during COVID times. Also my motivational level of getting up in the morning."} reporting low resilience. People with a higher degree of resilience enjoy be tter well-being and health, tend to be more productive and report more academic success. Given the importance of resilience, understanding the different conceptualizations is essential. Resilience can be perceived from a trait, process or outcome perspective. The trait perspective describes it as a component of one’s personality, something stable over time, while the process perspective views it as something volatile and dynamic, and focusses on how resilient one feels at the moment. The outcome perspective merely is interested in whether one is able to bounce back from adversity or mental health issues and not so much in how one perceives it subjectively. Irrespective of conceptual variance, research found that people are able to train their resilience. The question that remains to be answered is “How do you train it?”.
 
-According to resilience theory, resilience is characterized by a multitude of components and
-mechanisms, ranging from the cellular to the societal level. The majority of existing resilience
-interventions, however, have been focussing on the <span class="highlight">[psychosocial]{title="A mix of psychological and social factors. Also a sick slipknot song."}</span> domain, targeting personal
-and relational factors. Fostering cognitive flexibility, for instance, marks one personal
-approach. Cognitive flexibility refers to the ability to reframe a stressful situation and thereby
-finding alternative solutions to it. In terms of relational interventions, strengthening one’s
-social support and relationships was shown to increase resilience. Since more conclusive
-evidence was found with respect to these psychosocial factors, the current meta-analysis
-focuses on them. Due to the advancements in <span class="highlight">[telecommunication technologies]{title="The transmission of messages, in this case via digital media."}</span> and a
-general rise in <span class="highlight">[digital literacy,]{title="The capability of handling digital technologies."}</span> the provision of resilience interventions via digital media has
-increased. This potentially offers comprehensive accessibility of such interventions and is
-therefore important to be investigated.
+According to resilience theory, resilience is characterized by a multitude of components and mechanisms, ranging from the cellular to the societal level. The majority of existing resilience interventions, however, have been focussing on the [psychosocial]{title="A mix of psychological and social factors. Also a sick slipknot song."} domain, targeting personal and relational factors. Fostering cognitive flexibility, for instance, marks one personal approach. Cognitive flexibility refers to the ability to reframe a stressful situation and thereby finding alternative solutions to it. In terms of relational interventions, strengthening one’s social support and relationships was shown to increase resilience. Since more conclusive evidence was found with respect to these psychosocial factors, the current meta-analysis focuses on them. Due to the advancements in [telecommunication technologies]{title="The transmission of messages, in this case via digital media."} and a general rise in [digital literacy,]{title="The capability of handling digital technologies."} the provision of resilience interventions via digital media has increased. This potentially offers comprehensive accessibility of such interventions and is therefore important to be investigated.
 
-The current meta-analysis assesses the efficacy of resilience trainings delivered via
-computers, mobile devices or the internet. While face-to-face interventions with physical presence have been shown
-to improve one’s resilience both as a therapeutic measure and a preventive tool for the
-general population, it remains unclear whether this is also true in a digital context. While both
-modalities (face-to-face and digital) offer the possibility of synchronous communication, it has
-been shown that the lack of physical presence can attenuate a learner’s interest and
-motivation in an online paradigm. In light of the improvements in the digital infrastructure, the
-affinity of the general public towards digital technologies and a continuous increase in mental
-health issues, it is crucial to evaluate the potential of digital interventions to foster resilience.
-Therefore, this meta-analysis intends to (1) assess the effectiveness of digital resilience
-training and (2) extract the most important features for designing such interventions.
+The current meta-analysis assesses the efficacy of resilience trainings delivered via computers, mobile devices or the internet. While face-to-face interventions with physical presence have been shown to improve one’s resilience both as a therapeutic measure and a preventive tool for the general population, it remains unclear whether this is also true in a digital context. While both modalities (face-to-face and digital) offer the possibility of synchronous communication, it has been shown that the lack of physical presence can attenuate a learner’s interest and motivation in an online paradigm. In light of the improvements in the digital infrastructure, the affinity of the general public towards digital technologies and a continuous increase in mental health issues, it is crucial to evaluate the potential of digital interventions to foster resilience. Therefore, this meta-analysis intends to (1) assess the effectiveness of digital resilience training and (2) extract the most important features for designing such interventions.
 
 # What does this study find?
 
-The search results are shown in Figure 2. A total of 28,816 records
-were identified from eight electronic databases and 6 records were
-retrieved from Google Scholar. After 5490 duplicates were removed,
-1392 records were screened by their title and abstract based on the
-eligibility criteria. One hundrend six articles were screened in full text,
-and 84 articles were further excluded. Finally, 22 randomised
-controlled trials were included in this review, 21 were published papers
-(Aiken et al., 2014; Anderson et al., 2017; Barry et al., 2019; Bekki
-et al., 2013; Brog et al., 2022; Ebert et al., 2021; Flett et al., 2019, 2020;
-Harrer et al., 2018; Heckendorf et al., 2019; Hoorelbeke et al., 2015;
-Litvin et al., 2020; Morrison et al., 2017; Park et al., 2020; Raevuori
-et al., 2021; Roig et al., 2020; Shaygan et al., 2021; Suranata
-et al., 2020; Zhou et al., 2019) and 1 unpublished doctoral dissertation
-(Baqai, 2020). The reviewer agreement on the selection of eligible
-studies was good (k = 0.74). Two studies (Joyce et al., 2019; Smyth
-et al., 2018) did not provide sufficient information in their publication
-and were excluded from the meta‐analysis.
+This Meta-Analysis found an overall [moderate]{title="Z = 4.09, p < 0.05; g = 0.54; 95% CI: 0.28–0.79)" style="font-weight: bold; color: #78c2ad;"} increase in resilience directly after the intervention and an overall [large]{title="Z = 3.00, p < 0.05; g = 1.09, 95% CI: 0.38–1.79)" style="font-weight: bold; color: #78c2ad;"} effect on resilience up to 6 months after the resilience training. The effect directly after the intervention was greater when the intervention did [not include cognitive flexibility skills]{title="g = 0.71, 95% CI: 0.38–1.03 compared to included (g = 0.13, 95% CI: −0.07–0.32)" style="font-weight: bold; color: #78c2ad;"} ,when the intervention was done [over the internet]{title="g = 0.74, 95% CI: 0.32–1.17 compared to mobile applications (g = 0.43, 95% CI: −0.05–0.91) or others (g = 0.23, 95% CI: 0.05– 0.79) " style="font-weight: bold; color: #78c2ad;"} and when participants could [do the training at their own pace]{title="g = 0.54, 95% CI: 0.28–0.79 compared to a fixed schedule (g = 0.25, 95% CI: 0.07–0.43)" style="font-weight: bold; color: #78c2ad;"}.
+
+Regarding anxiety, depressive symptoms and stress this meta-analysis reported that resilience training has no effect on [anxiety]{title="Z = 0.36, p = 0.12" style="font-weight: bold; color: #78c2ad;"} and [stress symptoms]{title="Z = 0.80, p = 0.42" style="font-weight: bold; color: #78c2ad;"} directly after the intervention and only a small effect on [anxiety after 6 months]{title="(Z = 3.67, p < 0.05; g = 0.36, 95% CI: 0.20–0.53; no effect for stress (Z = 1.34, p = 0.18)" style="font-weight: bold; color: #78c2ad;"}. The resilience training could reduce depressive symptoms directly after the intervention and after 6 months with a [small effect]{title="after intervention (Z = 4.32, p < 0.05, g = 0.36, 95% CI: 0.20–0.53) and after 6 months (Z = 3.83, p < 0.05, g = 0.35, 95% CI: 0.17–0.53)" style="font-weight: bold; color: #78c2ad;"}.
 
 # How does the Digital Psychology Lab teaching evaluate this study?
 
-However, this review is limited for several reasons. Given that
-eligible articles that are not published in the English Language were
-omitted, this has potentially led to publication bias. High heterogeneity
-was also detected, which was not unexpected because the
-eligible trials showed variation in the population (e.g., healthy, or
-diseased individuals) and their intervention contents. Additionally,
-the included trials had relatively small sample sizes that could
-potentially lead to an overestimation of the effect sizes. The use of
-subjective measures for outcomes may be limited by social desirability
-biases and expectancy effects. Finally, the GRADE evidence
-suggests low to very low confidence in the findings.
+However, this review is limited for several reasons. Given that eligible articles that are not published in the English Language were omitted, this has potentially led to publication bias. High heterogeneity was also detected, which was not unexpected because the eligible trials showed variation in the population (e.g., healthy, or diseased individuals) and their intervention contents. Additionally, the included trials had relatively small sample sizes that could potentially lead to an overestimation of the effect sizes. The use of subjective measures for outcomes may be limited by social desirability biases and expectancy effects. Finally, the GRADE evidence suggests low to very low confidence in the findings.
 
 # Conclusion for teaching practice
 
-This review applied a rigorous and systematic approach to examine
-the effectiveness of digital resilience training by conducting the
-meta‐analysis and meta‐regression of randomised controlled trials.
-With respect to its limitations of high heterogeneity and publication
-bias, the findings lay the foundation for future work. Nonetheless,
-this review supports the use of digital resilience training from a
-strength‐based and preventive angle. Digital resilience training
-delivered over the Internet with a flexible training programme was
-found to exert a greater positive influence on psychological wellbeing
-such as resilience while reducing anxiety and depressive
-symptoms. Future trials are needed to examine the effects of digital
-training platforms on resilience. Large‐scale randomised controlled
-trials that are prospectively registered and adopting intention‐totreat
-analysis must be performed to ascertain the effectiveness of
-digital resilience training.
+This review applied a rigorous and systematic approach to examine the effectiveness of digital resilience training by conducting the meta‐analysis and meta‐regression of randomised controlled trials. With respect to its limitations of high heterogeneity and publication bias, the findings lay the foundation for future work. Nonetheless, this review supports the use of digital resilience training from a strength‐based and preventive angle. Digital resilience training delivered over the Internet with a flexible training programme was found to exert a greater positive influence on psychological wellbeing such as resilience while reducing anxiety and depressive symptoms. Future trials are needed to examine the effects of digital training platforms on resilience. Large‐scale randomised controlled trials that are prospectively registered and adopting intention‐totreat analysis must be performed to ascertain the effectiveness of digital resilience training.
 
 # Study example
 
-Wei How Darryl Ang: Data curation, formal analysis, investigation,
-writing – original draft, writing – review and editing and visualization.
-Han Shi Jocelyn Chew: Data curation, formal analysis, writing – original
-draft and writing – review and editing. Jie Dong: Writing – original
-draft and writing – review and editing. Huso Yi: Writing – original draft
-and writing – review and editing. Rathi Mahendren: Writing – original
-draft and writing – review and editing. Ying Lau: Conceptualization,
-methodology, design, validation, formal analysis, investigation,
-resources, data curation, writing – original draft, writing – review and
-editing, visualization and supervision.
+[Study 1](https://flopaho.github.io/building-resilience/study1.html)
+
+[Study 2](https://flopaho.github.io/building-resilience/study2.html)
+
+[Study 3](https://flopaho.github.io/building-resilience/study3.html)
 
 # References
 
-Abdulai, A.‐F., Tiffere, A.‐H., Adam, F., & Kabanunye, M. M. (2021).
-COVID‐19 information‐related digital literacy among online health
-consumers in a low‐income country. International Journal of Medical
-Informatics, 145, 104322. https://doi.org/10.1016/j.ijmedinf.2020.
-104322
+Ang, W. H. D., Chew, H. S. J., Dong, J., Yi, H., Mahendren, R., & Lau, Y. (2022). Digital training for building resilience: Systematic review, meta‐analysis, and meta‐regression. Stress and Health, 38(5), 848-869.
