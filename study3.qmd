@@ -34,3 +34,5 @@ There are two main conclusions to be drawn from this study:
 # References
 
 Zhou, K., Li, J., & Li, X. (2019). Effects of cyclic adjustment training delivered via a mobile device on psychological resilience, depression, and anxiety in Chinese post-surgical breast cancer patients. Breast cancer research and treatment, 178, 95-103.
+
+[Download article](https://link.springer.com/article/10.1007/s10549-019-05368-9)
