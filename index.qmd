@@ -48,15 +48,12 @@ The meta-analysis itself does a good job of inspecting the quality of the eviden
 
 # Quality of the evidence
 
-The evidence is not credible. The funnel plot and the Egger regression test indicate a publication bias. The risk of bias was not satisfactory for 19 out of the 22 included studies. Using the GRADE criteria the quality of the evidence ranges from very low to low. Altogether more high-quality studies need to be conducted before conclusive assertions can be made.The meta-analysis suggest that reported effect sizes may be inflated to a large extent.
+The evidence is not credible. The funnel plot and the Egger regression test indicate a publication bias. The risk of bias was not satisfactory for 19 out of the 22 included studies. Using the GRADE criteria the quality of the evidence ranges from very low to low.Heterogeneous findings and variation in the population and intervention characteristics further complicate the picture. Altogether more high-quality studies need to be conducted before conclusive assertions can be made.The meta-analysis suggest that reported effect sizes may be inflated to a large extent.
 
-# How does the Digital Psychology Lab teaching evaluate this study?
-
-However, this review is limited for several reasons. Given that eligible articles that are not published in the English Language were omitted, this has potentially led to publication bias. High heterogeneity was also detected, which was not unexpected because the eligible trials showed variation in the population (e.g., healthy, or diseased individuals) and their intervention contents. Additionally, the included trials had relatively small sample sizes that could potentially lead to an overestimation of the effect sizes. The use of subjective measures for outcomes may be limited by social desirability biases and expectancy effects. Finally, the GRADE evidence suggests low to very low confidence in the findings.
 
 # Conclusion for teaching practice
 
-This review applied a rigorous and systematic approach to examine the effectiveness of digital resilience training by conducting the meta‐analysis and meta‐regression of randomised controlled trials. With respect to its limitations of high heterogeneity and publication bias, the findings lay the foundation for future work. Nonetheless, this review supports the use of digital resilience training from a strength‐based and preventive angle. Digital resilience training delivered over the Internet with a flexible training programme was found to exert a greater positive influence on psychological wellbeing such as resilience while reducing anxiety and depressive symptoms. Future trials are needed to examine the effects of digital training platforms on resilience. Large‐scale randomised controlled trials that are prospectively registered and adopting intention‐totreat analysis must be performed to ascertain the effectiveness of digital resilience training.
+There a no substantial conclusions that can be drawn from this meta-analysis due to the dubious nature of the credibility of the findings. Expressed in the words of the authors, this means that: "more attention is warranted to improve the quality of future trials to ensure that grounded inferences may be made from its conclusions.".
 
 # Study example
 
@@ -66,7 +63,7 @@ This review applied a rigorous and systematic approach to examine the effectiven
 
 [Study 3](https://flopaho.github.io/building-resilience/study3.html)
 
-![resilience](resilience.png)
+![Resilience as it is imagined by DALL-E2](resilience.png)
 
 # References
 
