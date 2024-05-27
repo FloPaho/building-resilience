@@ -50,10 +50,9 @@ The meta-analysis itself does a good job of inspecting the quality of the eviden
 
 The evidence is not credible. The funnel plot and the Egger regression test indicate a publication bias. The risk of bias was not satisfactory for 19 out of the 22 included studies. Using the GRADE criteria the quality of the evidence ranges from very low to low.Heterogeneous findings and variation in the population and intervention characteristics further complicate the picture. Altogether more high-quality studies need to be conducted before conclusive assertions can be made.The meta-analysis suggest that reported effect sizes may be inflated to a large extent.
 
-
 # Conclusion for teaching practice
 
-There a no substantial conclusions that can be drawn from this meta-analysis due to the dubious nature of the credibility of the findings. Expressed in the words of the authors, this means that: "more attention is warranted to improve the quality of future trials to ensure that grounded inferences may be made from its conclusions.".
+There are no substantial conclusions that can be drawn from this meta-analysis due to the dubious nature of the credibility of the findings. Expressed in the words of the authors, this means that: "more attention is warranted to improve the quality of future trials to ensure that grounded inferences may be made from its conclusions.".
 
 # Study example
 
