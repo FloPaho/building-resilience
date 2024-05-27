@@ -5,7 +5,7 @@ subtitle: "A WeChat based resilience intervention"
 
 # Overview
 
-This study investigates whether a cyclic adjustment training (CAT) intervention delivered via a smartphone can improve psychological resilience and reduce anxiety and depression symptoms in post-surgical women with breast cancer. High resilience in breast cancer survivors improves family functioning, psychological well-being, and the overall quality of life.This study is especially relevant for China, were long-term hospital-based psychological rehabilitation is uncommon and patients tend to leave the hospital comparably early.
+This study investigates whether a cyclic adjustment training (CAT) intervention delivered via a smartphone can improve psychological resilience and reduce anxiety and depression symptoms in post-surgical women with breast cancer. High resilience in breast cancer survivors improves family functioning, psychological well-being, and the overall quality of life. This study is especially relevant for China, were long-term hospital-based psychological rehabilitation is uncommon and patients tend to leave the hospital comparably early.
 
 This study is one of three out of 22 studies in the meta-analysis that yielded acceptable levels of risk of bias. Furthermore it produced the second biggest effect size of all 22 studies with an effect size of 1.97 \[1.56, 2.38\] (Hedges g).
 
@@ -19,9 +19,9 @@ This study consisted of 66 women in a control group who only received routine nu
 
 Patients in the intervention group showed significantly improved resilience, anxiety and depression scores. This was also evident on all of the three follow-up measures. As described above, the effect sizes were large. In summary it can be said that CAT has beneficial effects on psychological resilience and symptoms of anxiety and depression in the early stages of the long-term rehabilitation of post-surgical women with breast cancer.
 
-# How does the Digital Psychology Lab teaching evaluate this study?
+# How do we evaluate this study?
 
-The large effect sizes and the low risk of bias make these findings appear quite trustworthy.However there could be a point of contention relating to the difference between the intervention and the control group. The intervention group received more attention and devotion on part of the hospital staff than the control group, since they had additional CAT sessions. This suggests that the large effect sizes may not solely stem from the efficacy of the intervention, but other factors may have contributed to these effects.
+The large effect sizes and the low risk of bias make these findings appear quite trustworthy. However there is a possible point of contention relating to the difference between the intervention and the control group. The intervention group received more attention and devotion on part of the hospital staff than the control group, since they had additional CAT sessions. This suggests that the large effect sizes may not solely stem from the efficacy of the intervention, but other factors may have contributed to these effects.
 
 # Conclusion
 
