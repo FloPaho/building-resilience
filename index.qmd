@@ -56,7 +56,7 @@ There are no substantial conclusions that can be drawn from this meta-analysis d
 
 # Study example
 
-[Study 1](https://flopaho.github.io/building-resilience/study1.html)
+[A therapist-guided smartphone app for major depression in young adults](https://flopaho.github.io/building-resilience/study1.html)
 
 [Study 2](https://flopaho.github.io/building-resilience/study2.html)
 
@@ -67,3 +67,5 @@ There are no substantial conclusions that can be drawn from this meta-analysis d
 # References
 
 Ang, W. H. D., Chew, H. S. J., Dong, J., Yi, H., Mahendren, R., & Lau, Y. (2022). Digital training for building resilience: Systematic review, meta‐analysis, and meta‐regression. Stress and Health, 38(5), 848-869.
+
+[Download article](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smi.3154)
