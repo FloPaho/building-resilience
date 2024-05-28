@@ -47,11 +47,11 @@ But an increase in [**resilience**]{title="d=0.32,p=0.03"
 style="font-weight: bold; color: #78c2ad;"} and
 [mindfulness]{title="d=0.57, p=0.002"
 style="font-weight: bold; color: #78c2ad;"} and a reduction in
-[perceived stress]{title="d=-0.52, p=0.008"
+[**perceived stress**]{title="d=-0.52, p=0.008"
 style="font-weight: bold; color: #78c2ad;"} has been found in the MHP
-intervention group compared to the control group. There were no
-differences found in anxiety, sleep disturbances, and quality of life
-between the groups.
+intervention group after 6 months compared to the control group. There
+were no differences found in anxiety, sleep disturbances, and quality of
+life between the groups.
 
 # References
 

@@ -12,13 +12,11 @@ website:
         menu:
           - text: A therapist-guided smartphone app for major depression in young adults
             href: study1.qmd
-          - text: Study 2
+          - text: The comparative effect of internet-based cognitive behavioral counseling versus face to face cognitive behavioral counseling in terms of student's resilience
             href: study2.qmd
           - text: Effects of cyclic adjustment training delivered via a mobile device on psychological resilience, depression, and anxiety in Chinese post-surgical breast cancer patients
             href: study3.qmd
     tools:
-      - icon: twitter
-        href: https://digilab.uni-graz.at/en/
       - icon: github
         href: https://github.com/FloPaho/building-resilience
   page-footer:
